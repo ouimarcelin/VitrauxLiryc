@@ -1,0 +1,20 @@
+<svg class="vitrail" xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 100.043 146.043" fill="none" stroke="#f486b6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+  <path pathLength="1" style="--i:0" d="M48.023 -0.006C60.757 -0.006 72.971 5.054 81.977 14.060C90.981 23.066 96.041 35.282 96.041 48.018C96.041 89.239 96.041 142.049 96.041 142.049L0.002 142.049L0.002 48.018C0.002 35.282 5.060 23.066 14.066 14.060C23.071 5.054 35.284 -0.006 48.020 -0.006L48.023 -0.006Z"/>
+  <path pathLength="1" style="--i:1" d="M48.022 10.906C68.517 10.906 85.132 27.522 85.132 48.018C85.132 83.339 85.132 131.137 85.132 131.137L10.911 131.137L10.911 48.018C10.911 27.522 27.525 10.906 48.020 10.906L48.022 10.906Z"/>
+  <path pathLength="1" style="--i:2" d="M10.891 131.134L10.891 142.044"/>
+  <path pathLength="1" style="--i:3" d="M85.104 131.134L85.104 142.044"/>
+  <path pathLength="1" style="--i:4" d="M74.049 131.134L85.132 123.066"/>
+  <path pathLength="1" style="--i:5" d="M21.994 131.134L10.911 123.066"/>
+  <path pathLength="1" style="--i:6" d="M43.410 131.135L85.134 100.750"/>
+  <path pathLength="1" style="--i:7" d="M52.633 131.135L10.909 100.750"/>
+  <path pathLength="1" style="--i:8" d="M12.776 131.136L85.130 78.434"/>
+  <path pathLength="1" style="--i:9" d="M83.267 131.136L10.913 78.434"/>
+  <path pathLength="1" style="--i:10" d="M10.911 110.171L85.132 56.104"/>
+  <path pathLength="1" style="--i:11" d="M85.132 110.171L10.911 56.104"/>
+  <path pathLength="1" style="--i:12" d="M10.913 87.854L82.931 35.397"/>
+  <path pathLength="1" style="--i:13" d="M85.130 87.854L13.112 35.397"/>
+  <path pathLength="1" style="--i:14" d="M10.912 65.541L72.838 20.424"/>
+  <path pathLength="1" style="--i:15" d="M85.131 65.541L23.205 20.424"/>
+  <path pathLength="1" style="--i:16" d="M11.256 42.967L54.495 11.478"/>
+  <path pathLength="1" style="--i:17" d="M84.787 42.967L41.548 11.478"/>
+</svg>
